@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassen%20MEDDEB&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20Architect&descAlignY=58&descSize=16&animation=fadeIn" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Building+Enterprise+Solutions+%F0%9F%9A%80;Full+Stack+%7C+Cloud+Infrastructure+%7C+DevOps+%7C+Leadership" alt="Typing SVG" />
+</a>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
