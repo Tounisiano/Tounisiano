@@ -1,16 +1,30 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<!-- Animated Header Banner -->
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassen%20MEDDEB&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20Architect&descAlignY=58&descSize=16&animation=fadeIn" />
+# 👋 Hassen MEDDEB
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Enterprise+Solutions+%F0%9F%9A%80;Full+Stack+%7C+Cloud+Infrastructure+%7C+DevOps+%7C+Leadership" alt="Typing SVG" />
-</a>
+## **Tech Lead Full Stack | Cloud & DevOps Architect**
+
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#headerGradient)"/>
+  <text x="400" y="70" font-size="28" font-weight="bold" fill="#A78BFA" text-anchor="middle" font-family="Arial, sans-serif">
+    Building Enterprise Solutions 🚀
+  </text>
+  <text x="400" y="95" font-size="14" fill="#c9d1d9" text-anchor="middle" font-family="Arial, sans-serif">
+    Full Stack | Cloud Infrastructure | DevOps | Leadership
+  </text>
+</svg>
+
+<br/>
 
 ### 💼 **Core Competencies**
+
 ```
 ✨ Building enterprise-grade solutions
 ☁️ Tech Lead & Cloud Architect  
@@ -23,10 +37,12 @@
 
 ### 🔗 **Let's Connect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tounisiano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tounisiano)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassen--meddeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassen-meddeb)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hassen.meddeb@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Tounisiano)
+[![GitHub](https://img.shields.io/badge/GitHub-Tounisiano-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tounisiano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassen--meddeb-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/hassen-meddeb)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white)](mailto:hassen.meddeb@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-7C3AED?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white)](https://github.com/Tounisiano)
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Check%20GitHub-purple?style=flat-square)
 
 </div>
 
@@ -291,52 +307,52 @@ Développement complet application mobile (UWP, iOS, Android) avec synchronisati
 ## 🛠️ Tech Stack
 
 ### 🌐 Backend (.NET Ecosystem)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
 
 ### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 
 ### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azuredevops&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white)
 
 ### 🔐 Enterprise & CRM
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dynamics CRM](https://img.shields.io/badge/Dynamics_CRM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white)
+![Dynamics CRM](https://img.shields.io/badge/Dynamics_CRM-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white)
 
 ### 📊 Observability & Tools
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
 
 ### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white)
 
 ---
 
@@ -348,8 +364,8 @@ Développement complet application mobile (UWP, iOS, Android) avec synchronisati
 
 | Certification | Plateforme | Date |
 |--------------|-----------|------|
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) | Microsoft Learn | 2023+ |
-| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Training | 2022+ |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0089D6?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white) | Microsoft Learn | 2023+ |
+| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white) | AWS Training | 2022+ |
 
 </details>
 
@@ -369,25 +385,23 @@ Développement complet application mobile (UWP, iOS, Android) avec synchronisati
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tounisiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+### 🔥 Contributions Overview
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tounisiano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+```
+Languages: C# | JavaScript | TypeScript | SQL
+Focus Areas: Backend Architecture | DevOps | Cloud Infrastructure
+Current: Tech Lead @ Orange Business
+```
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tounisiano&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tounisiano&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### 📈 Key Metrics
+- **8+ Years** Professional Experience
+- **20+ Enterprise Projects** Delivered
+- **Tech Lead** on Critical Systems
+- **100%** Code Quality Focus
 
 </div>
 
@@ -436,9 +450,9 @@ Que ce soit pour **architecture cloud**, **modernisation technique**, ou **trans
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Visitez_Mon_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tounisiano)
-[![LinkedIn](https://img.shields.io/badge/Connectez_Moi_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassen-meddeb)
-[![Email](https://img.shields.io/badge/Envoyez_Moi_Un_Email-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hassen.meddeb@email.com)
+[![GitHub](https://img.shields.io/badge/Visitez_Mon_GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tounisiano)
+[![LinkedIn](https://img.shields.io/badge/Connectez_Moi_LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/hassen-meddeb)
+[![Email](https://img.shields.io/badge/Envoyez_Moi_Un_Email-%230078D4.svg?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white)](mailto:hassen.meddeb@email.com)
 
 </div>
 
