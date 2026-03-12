@@ -1,21 +1,43 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassen%20MEDDEB&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20Architect&descAlignY=58&descSize=16&animation=fadeIn" />
+# 👋 Hassen MEDDEB
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&lines=Building+enterprise-grade+solutions+%F0%9F%9A%80;Tech+Lead+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;.NET+%2F+Angular+%2F+React+specialist+%F0%9F%8E%AF;DevOps+%2F+CI-CD+enthusiast+%F0%9F%94�;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
+## **Tech Lead Full Stack | Cloud & DevOps Architect**
+
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#headerGradient)"/>
+  <text x="400" y="70" font-size="28" font-weight="bold" fill="#A78BFA" text-anchor="middle" font-family="Arial, sans-serif">
+    Building Enterprise Solutions 🚀
+  </text>
+  <text x="400" y="95" font-size="14" fill="#c9d1d9" text-anchor="middle" font-family="Arial, sans-serif">
+    Full Stack | Cloud Infrastructure | DevOps | Leadership
+  </text>
+</svg>
+
+### 💼 **Core Competencies**
+```
+✨ Building enterprise-grade solutions
+☁️ Tech Lead & Cloud Architect  
+.NET / Angular / React Specialist
+🔧 DevOps / CI-CD Enthusiast
+📚 Always learning, always shipping
+```
 
 <br/>
 
-<!-- Social Badges -->
+### 🔗 **Let's Connect**
+
 [![GitHub](https://img.shields.io/badge/GitHub-Tounisiano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tounisiano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hassen--meddeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassen-meddeb)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hassen.meddeb@email.com)
-
-<img src="https://komarev.com/ghpvc/?username=Tounisiano&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Tounisiano)
 
 </div>
 
@@ -435,20 +457,39 @@ Que ce soit pour **architecture cloud**, **modernisation technique**, ou **trans
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+---
+
+## 🚀 **Ready to Build Something Great?**
+
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f0c29;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="100" fill="url(#footerGradient)"/>
+  <text x="400" y="45" font-size="18" font-weight="bold" fill="#A78BFA" text-anchor="middle" font-family="Arial, sans-serif">
+    Let's Create Exceptional Solutions Together 💡
+  </text>
+  <text x="400" y="70" font-size="12" fill="#c9d1d9" text-anchor="middle" font-family="Arial, sans-serif">
+    Open to collaborations, consulting & architectural challenges
+  </text>
+</svg>
+
+### 📧 **Get In Touch**
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Tounisiano"><strong>GitHub</strong></a></td>
+    <td align="center"><a href="https://linkedin.com/in/hassen-meddeb"><strong>LinkedIn</strong></a></td>
+    <td align="center"><a href="mailto:hassen.meddeb@email.com"><strong>Email</strong></a></td>
+  </tr>
+</table>
+
+---
+
+<sub>**Last Updated** : March 2025 | **Status** : Tech Lead at Orange Business | **Open to** : Consulting & Architecture Projects</sub>
 
 </div>
-
----
-
-### 📄 Notes Importantes
-
-- 📍 **Localisation** : France
-- 💼 **Statut** : Tech Lead en poste chez Orange Business
-- 🎯 **Objectif** : Projets ambitieux en architecture, transformation numérique et leadership technique
-- ⏰ **Disponibilité** : Ouvert aux opportunités de consulting, architecture, mentoring
-- 🌐 **Contact** : [LinkedIn](https://linkedin.com/in/hassen-meddeb) | [GitHub](https://github.com/Tounisiano) | Email
-
----
-
-**Dernière mise à jour** : Mars 2026
