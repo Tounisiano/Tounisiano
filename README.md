@@ -1,25 +1,13 @@
 <div align="center">
 
-# 👋 Hassen MEDDEB
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassen%20MEDDEB&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20Architect&descAlignY=58&descSize=16&animation=fadeIn" />
 
-## **Tech Lead Full Stack | Cloud & DevOps Architect**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Enterprise+Solutions+%F0%9F%9A%80;Full+Stack+%7C+Cloud+Infrastructure+%7C+DevOps+%7C+Leadership" alt="Typing SVG" />
+</a>
 
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="800" height="120" fill="url(#headerGradient)"/>
-  <text x="400" y="70" font-size="28" font-weight="bold" fill="#A78BFA" text-anchor="middle" font-family="Arial, sans-serif">
-    Building Enterprise Solutions 🚀
-  </text>
-  <text x="400" y="95" font-size="14" fill="#c9d1d9" text-anchor="middle" font-family="Arial, sans-serif">
-    Full Stack | Cloud Infrastructure | DevOps | Leadership
-  </text>
-</svg>
 
 ### 💼 **Core Competencies**
 ```
